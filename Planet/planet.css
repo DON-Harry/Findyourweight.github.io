@@ -1,0 +1,280 @@
+body{
+	background: url("https://images.outlookindia.com/public/uploads/articles/2017/10/16/solar_system_571_855.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.head{
+	border: 2px solid green;
+	text-align: center;
+	font-size: 20px;
+	/*background: url("https://solarsystem.nasa.gov/system/resources/list_images/380_voyage_480x320_kids_activities.jpg");*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+	height: auto;
+	width: auto;
+	margin: auto;
+	border-radius: 20px;
+}
+
+.sub{
+	text-shadow: 2px 4px 1px #bb1800;
+
+}
+
+.continer{
+	margin: 100px 25% 0px 25%;
+}
+
+#earth{
+	width:50px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	position: absolute;
+	top:235px;
+	right: 480px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.earth{
+	font-size: 20px;
+	color: white;
+	margin-left: 120px;
+	/*text-align: center;*/
+}
+
+.planet{
+	margin-top: 10px;
+}
+
+.m{
+	margin-top: 10px;
+}
+
+.m1{
+	position: absolute;
+	right: 400px;
+	top: 300px;
+	color: #e52f0b;
+}
+
+.m2{
+	position: absolute;
+	right: 400px;
+	top: 450px;
+	color: #aebdea;
+}
+
+.m3{
+	position: absolute;
+	right: 400px;
+	top: 560px;
+	color: #b1aeb1;
+}
+
+.m4{
+	position: absolute;
+	right: 400px;
+	top: 680px;
+	color: #f4d695;
+}
+
+.m5{
+	position: absolute;
+	right: 400px;
+	top: 790px;
+	color: #b1aeb1;
+}
+
+.m6{
+	position: absolute;
+	right: 400px;
+	top: 910px;
+	color: #e7af88;
+}
+
+.m7{
+	position: absolute;
+	right: 400px;
+	top: 1020px;
+	color: #65533b;
+}
+
+.m8{
+	position: absolute;
+	right: 400px;
+	top: 1150px;
+	color: #aaecf8;
+}
+
+.m9{
+	position: absolute;
+	right: 400px;
+	top: 1250px;
+	color: #4570fd;
+}
+
+/*.m10{
+	position: absolute;
+	right: 350px;
+	top: 1200px;
+	color: red;
+}
+*/
+
+.ans{
+	width: 50px;
+	height: 30px;
+	border-radius: 5px;
+	position: relative;
+	left: 50px;
+	margin-top: 5px;
+	border:none;
+}
+
+.s1{
+	border:2px solid #e52f0b;
+}
+.s2{
+	border:2px solid #aebdea;
+}
+.s3{
+	border:2px solid #b1aeb1;
+}
+.s4{
+	border:2px solid #f4d695;
+}
+.s5{
+	border:2px solid #b1aeb1;
+}
+.s6{
+	border:2px solid #e7af88;
+}
+.s7{
+	border:2px solid #65533b;
+}
+.s8{
+	border:2px solid #aaecf8;
+}
+.s9{
+	border:2px solid #4570fd;
+}
+
+#p1{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+
+.c{
+	color: white;
+	margin: 30px 0 0px 60%;
+}
+
+#p2{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+
+#p3{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+#p4{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+#p5{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+#p6{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+#p7{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+#p8{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+
+#p9{
+	width:200px;
+	height: 25px;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 2px;
+}
+
+#btn{
+	color: rgb(200,200,200);
+	text-align: center;
+}
+
+hr.style-five {
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black;
+}
+hr.style-five:after {  /* Not really supposed to work, but does */
+    content: "\00a0";  /* Prevent margin collapse */
+}
+
+.sp1{
+	color: white;
+	margin-left: 65px;
+}
+.sp2{
+	color: white;
+	margin-left: 220px;
+	position: absolute;
+	top: 40px;
+}

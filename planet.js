@@ -31,13 +31,13 @@ function moon(){
 }
 
 function mercury(){
-	var sg=1.62;
+	var sg=3.7;
 	var w=mass*sg;
 	return w;
 }
 
 function venus(){
-	var sg=1.62;
+	var sg=8.87;
 	var w=mass*sg;
 	return w;
 }
@@ -73,8 +73,8 @@ function neptune(){
 }
 
 
-const reloadtButton = document.querySelector("#btn");
-function reload() {
-reload = location. reload();
-}
-reloadButton.addEventListener("click", reload, false);
+// const reloadtButton = document.querySelector("#btn");
+// function reload() {
+// reload = location. reload();
+// }
+// reloadButton.addEventListener("click", reload, false);
